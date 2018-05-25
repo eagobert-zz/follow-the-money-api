@@ -4,6 +4,6 @@ Practice creating JSON-server and developing fake data using https://next.json-g
 # Instructions
 
 -Clone repository from github
--NPM Install
+-NPM Install to install json-server
 -Run:  json-server -p 8088 -w ftm.json from the terminal
 
